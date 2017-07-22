@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Google_Scraper/.idea/Google_Scraper.iml" filepath="$PROJECT_DIR$/../Google_Scraper/.idea/Google_Scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Deal_Sourcing_AI/.idea/Deal_Sourcing_AI.iml" filepath="$PROJECT_DIR$/../Deal_Sourcing_AI/.idea/Deal_Sourcing_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HOF_Scraper/.idea/HOF_Scraper.iml" filepath="$PROJECT_DIR$/../HOF_Scraper/.idea/HOF_Scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Slack-App/.idea/Slack-App.iml" filepath="$PROJECT_DIR$/../Slack-App/.idea/Slack-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spark.iml" filepath="$PROJECT_DIR$/.idea/Spark.iml" />
     </modules>
   </component>
 </project>
