@@ -7,6 +7,8 @@
     <orderEntry type="module" module-name="Deal_Sourcing_AI" />
     <orderEntry type="module" module-name="HOF_Scraper" />
     <orderEntry type="module" module-name="Slack-App" />
+    <orderEntry type="module" module-name="Deal_Sourcing_AI_2" />
+    <orderEntry type="module" module-name="NLP" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
