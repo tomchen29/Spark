@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72cbd46-56c0-4cf0-80c3-7fadf80a6f56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/improve_movie_model.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movie-similarities-1m.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movie-similarities.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/popular-movies-dataframe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/movies.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/ratings.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Spark.iml" afterPath="$PROJECT_DIR$/.idea/Spark.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/degrees-of-separation.py" afterPath="$PROJECT_DIR$/superhero-BFS.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/movie-similarities.py" afterPath="$PROJECT_DIR$/movie-similarities-1m.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,41 +25,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie-similarities.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/movie-similarities.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <element signature="e#507#730#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popular-movies-dataframe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/popular-movies-dataframe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="120" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movie-similarities-1m.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="movie-similarities-1m.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/movie-similarities-1m.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2160">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
-                <element signature="e#487#703#0" expanded="false" />
-                <element signature="e#741#856#0" expanded="false" />
-                <element signature="e#905#997#0" expanded="false" />
-                <element signature="e#1045#1449#0" expanded="false" />
+                <element signature="e#383#599#0" expanded="false" />
+                <element signature="e#894#1117#0" expanded="false" />
+                <element signature="e#1165#1631#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -111,6 +77,7 @@
       <find>key</find>
       <find>company_name</find>
       <find>urllib2.</find>
+      <find>score</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,6 +108,7 @@
         <option value="$PROJECT_DIR$/popular-movies-dataframe.py" />
         <option value="$PROJECT_DIR$/movie-similarities-1m.py" />
         <option value="$PROJECT_DIR$/movie-similarities.py" />
+        <option value="$PROJECT_DIR$/movie-similarities 1m.py" />
       </list>
     </option>
   </component>
@@ -203,6 +171,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,7 +304,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Spark" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie-similarities.py" />
+      <option name="SCRIPT_NAME" value="D:\Coding_App\Python_Projects\Spark\movie-similarities-1m.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,11 +413,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.50213903" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.49893048" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943144" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32107022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32107022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -527,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie-similarities.py">
+    <entry file="file://$PROJECT_DIR$/movie-similarities-1m.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
@@ -780,29 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie-similarities-1m.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2160">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#487#703#0" expanded="false" />
-            <element signature="e#741#856#0" expanded="false" />
-            <element signature="e#905#997#0" expanded="false" />
-            <element signature="e#1045#1449#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/popular-movies-dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="120" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/OS_App/anaconda2/Lib/site-packages/pyspark/rdd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
@@ -811,13 +770,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie-similarities.py">
+    <entry file="file://$PROJECT_DIR$/popular-movies-dataframe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+        <state relative-caret-position="585">
+          <caret line="13" column="75" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="75" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#507#730#0" expanded="false" />
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie-similarities-1m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie-similarities-1m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#383#599#0" expanded="false" />
+            <element signature="e#894#1117#0" expanded="false" />
+            <element signature="e#1165#1631#0" expanded="false" />
           </folding>
         </state>
       </provider>
